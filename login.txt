@@ -1,1 +1,2 @@
 console.log('some login feature')
+Here are some text to cause a conflict version 2
